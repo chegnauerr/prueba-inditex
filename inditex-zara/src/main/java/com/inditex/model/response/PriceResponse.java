@@ -18,7 +18,5 @@ public class PriceResponse {
     private LocalDateTime endDate;
     private Double price;
 
-    public PriceResponse() {
-    }
 }
 
